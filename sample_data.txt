@@ -1,0 +1,26 @@
+FLIGHTS
+
+D101 | Domestic | Islamabad | Lahore | 2026-10-01 09:00 | 100
+D102 | Domestic | Karachi | Islamabad | 2026-10-02 11:00 | 120
+D103 | Domestic | Lahore | Quetta | 2026-10-03 14:00 | 90
+D104 | Domestic | Peshawar | Karachi | 2026-10-04 16:00 | 110
+
+I201 | International | Islamabad | London | 2026-10-05 08:00 | 250
+I202 | International | Lahore | Dubai | 2026-10-06 10:00 | 220
+I203 | International | Karachi | Doha | 2026-10-07 13:00 | 230
+
+C301 | Charter | Islamabad | Istanbul | 2026-10-08 07:00 | 180
+C302 | Charter | Lahore | Jeddah | 2026-10-09 12:00 | 160
+C303 | Charter | Karachi | Kuala Lumpur | 2026-10-10 15:00 | 170
+
+
+PASSENGERS
+
+P001 | Ali Khan | ali@example.com | 03001234567 | Economy
+P002 | Sara Ahmed | sara@example.com | 03012345678 | Economy
+P003 | Hamza Malik | hamza@example.com | 03023456789 | Business
+P004 | Ayesha Noor | ayesha@example.com | 03034567890 | Business
+P005 | Zain Abbas | zain@example.com | 03045678901 | First Class
+P006 | Hira Shah | hira@example.com | 03056789012 | Economy
+P007 | Omar Farooq | omar@example.com | 03067890123 | Business
+P008 | Mehak Ali | mehak@example.com | 03078901234 | First Class
